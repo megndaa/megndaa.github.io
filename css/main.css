@@ -1819,7 +1819,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffff9a;
+  background: #d925ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3143,7 +3143,7 @@ body {
   border-radius: 5em;
 }
 .post {
-  width: 90%;
+  width: 110%;
   margin-top: 3em;
   margin-bottom: 1em;
   padding: 20px;
